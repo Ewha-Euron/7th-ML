@@ -25,7 +25,7 @@
      - [핸즈온 머신러닝 7.2장, 7.3장](https://drive.google.com/file/d/1lSnSjtiTPrrbQFlieGxgL3D72BK3ZJqG/view?usp=drive_link)
   2. 서포트 벡터 머신(SVM)
      - [핸즈온 머신러닝 5.1, 5.2장](https://drive.google.com/file/d/1JigLig3S_6ahbL0J8aa8lh302TfJLSSu/view?usp=drive_link)  
-※ 추가 교재 pdf는 [Euron 교재 구글 드라이브](https://drive.google.com/drive/folders/1JRpZBnPlPtYCStoUR9iCCW9u-OMlGXV8?usp=drive_link) 내에 있습니다. 
+※ 추가 교재 pdf는 [Euron 교재 구글 드라이브](https://drive.google.com/drive/folders/1JRpZBnPlPtYCStoUR9iCCW9u-OMlGXV8?usp=sharing) 내에 있습니다. 
 
 
 ### 📍 2주차 복습과제
